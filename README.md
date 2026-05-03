@@ -13,7 +13,9 @@ Organizei este dashboard como uma boa conversa, onde cada parte nos leva a uma n
 Começamos entendendo quem está do outro lado. Analisei uma base de 1.999 clientes para saber direitinho com quem estamos falando e como podemos nos conectar melhor.
 
 *   **Números que Contam Histórias**: A média salarial anual da nossa base é de 51,98 mil, e o volume total de clientes nos dá uma boa dimensão do nosso público.
+
 *   **Um Olhar na Diversidade**: Descobrimos que a maioria tem **Curso Superior** e é **Solteiro**, o que já nos dá pistas importantes.
+
 *   **De Onde Eles Vêm?**: Nossos clientes estão espalhados por lugares como Brasil, Alemanha, Espanha e Estados Unidos. É um mundo de possibilidades!
 
 ![Visão dos Clientes](img/01-visao-comportamento-cliente.png)
@@ -24,6 +26,7 @@ Começamos entendendo quem está do outro lado. Analisei uma base de 1.999 clien
 Depois de conhecer a galera, a gente quer saber: como eles interagem com a marca? Onde eles preferem comprar?
 
 *   **Hábitos que Revelam**: Cruzei dados de escolaridade com a propensão a comprar, para entender o que motiva cada grupo.
+
 *   **Onde a Mágica Acontece**: Comparei as compras feitas pela **Web**, na **Loja Física** e via **Catálogo**, para ver qual canal brilha mais.
 
 ![Visão de Comportamento](img/02-visao-comportamento-compra.png)
@@ -33,6 +36,7 @@ Depois de conhecer a galera, a gente quer saber: como eles interagem com a marca
 Chegou a hora da verdade! Nossas campanhas estão convertendo? O que está funcionando e o que podemos melhorar?
 
 *   **Detalhes que Fazem a Diferença**: As visualizações mostram os resultados em números absolutos e porcentagens, para uma análise rápida e certeira do nosso retorno sobre investimento (ROI).
+
 *   **O Segredo do Sucesso**: Mapeei quais segmentos de clientes foram mais receptivos, gerando os maiores índices de conversão. Assim, a gente sabe onde focar!
 
 ![Visão de Campanhas](img/03-visao-performance-campanhas.png)
@@ -42,6 +46,7 @@ Chegou a hora da verdade! Nossas campanhas estão convertendo? O que está funci
 Para ir ainda mais fundo, criei uma matriz que nos permite explorar os dados em detalhes, como se estivéssemos desvendando um mistério!
 
 *   **Decisões com Dados**: Detalhei as compras por estado civil, dentro de cada categoria (Comprou 0 ou 1), para entender as nuances de cada grupo.
+
 *   **Interatividade na Ponta dos Dedos**: Com ícones de adição/subtração, você pode mergulhar nos dados e ver cada detalhe que importa.
 
 ![Visão de Padrões](img/04-visao-padroes-ponto-venda.png)
@@ -53,7 +58,9 @@ Para ir ainda mais fundo, criei uma matriz que nos permite explorar os dados em 
 Neste projeto, coloquei em prática:
 
 *   **Modelagem de Dados**: Estruturei tabelas e criei relacionamentos complexos para que os dados fizessem sentido.
+
 *   **Visualização Avançada**: Configurei ícones e rótulos personalizados para que a experiência de quem usa o dashboard seja a melhor possível.
+
 *   **Visão de Negócio (CX)**: Apliquei métricas que realmente importam para o sucesso do cliente e para o aumento das vendas.
 
 ---
